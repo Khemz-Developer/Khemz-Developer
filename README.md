@@ -11,7 +11,7 @@
   <span style="color: #f39c12;">Cloud Computing</span>
 </h3>
 
-## 🌐 My Portfolio
+<h2 align="center"> 🌐 My Portfolio </h2>
 
 <p align="center">
   <a href="https://khemz-developer.github.io/deploy-portfolio/" target="_blank">
