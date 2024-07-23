@@ -11,6 +11,15 @@
   <span style="color: #f39c12;">Cloud Computing</span>
 </h3>
 
+## 🌐 My Portfolio
+
+<p align="center">
+  <a href="https://khemz-developer.github.io/deploy-portfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=internet-explorer" alt="Portfolio Badge"/>
+  </a>
+</p>
+
+
 <h2 align="center" margin-top="30px">About Me</h2>
 
 <p align="center">
