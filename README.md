@@ -11,8 +11,22 @@
   <span style="color: #f39c12;">Cloud Computing</span>
 </h3>
 
+<h2 align="center" margin-top="30px">About Me</h2>
 
-<h3 align="center">Programming Languages:</h3>
+<p align="center">
+  Hi! I'm <strong>Jalitha Kheminda</strong>, an engineering student at the University of Ruhuna, pursuing my B.Sc. (Honors) in Engineering. I have a deep passion for software development and have honed a diverse set of skills.
+</p>
+
+<p align="center">
+  As a professional coder, I'm proficient in multiple programming languages and frameworks. I excel as a <strong>full-stack web developer</strong>, building fully functional web applications by managing both front-end and back-end development. I also develop mobile applications for both Android and iOS as a <strong>full-stack mobile developer</strong> and design user-friendly and visually appealing interfaces.
+</p>
+
+<p align="center">
+  My interests extend to <strong>machine learning</strong> and <strong>deep learning</strong>, where I develop and implement models to solve complex problems and optimize architectures for advanced analytics and automation. Currently, I'm expanding my knowledge in <strong>DevOps</strong> to improve software development and deployment processes. I'm always eager to learn and stay updated in the ever-evolving field of software.
+</p>
+
+<h2 align="center">Programming Languages:</h2>
+
 <p align="center" style="margin: 20px;">
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="margin: 10px;"/>
@@ -27,8 +41,10 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
-<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;"/>
-<h3 align="center">Web Development:</h3>
+
+
+<h2 align="center">Web Development:</h2>
+
 <p align="center" style="margin: 20px;">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40" style="margin: 10px;"/>
@@ -59,8 +75,8 @@
   </a>
 </p>
 
-<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;"/>
-<h3 align="center">Cloud and DevOps:</h3>
+<h2 align="center">Cloud and DevOps:</h2>
+
 <p align="center" style="margin: 20px;">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="margin: 10px;"/>
@@ -78,9 +94,10 @@
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
-<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;"/>
 
-<h3 align="center">Backend Development:</h3>
+
+<h2 align="center">Backend Development:</h2>
+
 <p align="center" style="margin: 20px;">
   <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="margin: 10px;"/>
@@ -101,8 +118,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
-<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;"/>
-<h3 align="center">Data Science and Machine Learning:</h3>
+
+<h2 align="center">Data Science and Machine Learning:</h2>
+
 <p align="center" style="margin: 20px;">
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
     <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40" style="margin: 10px;"/>
@@ -120,9 +138,11 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
-<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;"/>
 
-<h3 align="center">Tools and Miscellaneous:</h3>
+
+
+<h2 align="center">Tools and Miscellaneous:</h2>
+
 <p align="center" style="margin: 20px;">
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" style="margin: 10px;"/>
