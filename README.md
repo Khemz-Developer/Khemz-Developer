@@ -27,7 +27,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
-
+<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;"/>
 <h3 align="center">Web Development:</h3>
 <p align="center" style="margin: 20px;">
   <a href="https://angular.io" target="_blank" rel="noreferrer">
@@ -59,7 +59,7 @@
   </a>
 </p>
 
-
+<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;"/>
 <h3 align="center">Cloud and DevOps:</h3>
 <p align="center" style="margin: 20px;">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
@@ -78,7 +78,7 @@
     <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
-
+<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;"/>
 
 <h3 align="center">Backend Development:</h3>
 <p align="center" style="margin: 20px;">
@@ -101,7 +101,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
-
+<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;"/>
 <h3 align="center">Data Science and Machine Learning:</h3>
 <p align="center" style="margin: 20px;">
   <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
@@ -120,6 +120,7 @@
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
+<hr style="border: 0; height: 1px; background: #ccc; margin: 20px 0;"/>
 
 <h3 align="center">Tools and Miscellaneous:</h3>
 <p align="center" style="margin: 20px;">
@@ -138,7 +139,7 @@
 
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=khemz-developer&show_icons=true&locale=en&layout=compact" alt="khemz-developer" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=khemz-developer&show_icons=true&locale=en&layout=compact" alt="khemz-developer" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khemz-developer&show_icons=true&locale=en" alt="khemz-developer" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=khemz-developer&show_icons=true&locale=en" alt="khemz-developer" /></p>
 
