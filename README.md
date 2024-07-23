@@ -31,8 +31,18 @@
 </p>
 
 <p align="center">
-  My interests extend to <strong>machine learning</strong> and <strong>deep learning</strong>, where I develop and implement models to solve complex problems and optimize architectures for advanced analytics and automation. Currently, I'm expanding my knowledge in <strong>DevOps</strong> to improve software development and deployment processes. I'm always eager to learn and stay updated in the ever-evolving field of software.
+  My interests extend to <strong>machine learning</strong> and <strong>deep learning</strong>, where I develop and implement models to solve complex problems and optimize architectures for advanced analytics and automation. Currently, I'm expanding my knowledge in <strong>DevOps and Cloud engineering concepts</strong> to improve software development and deployment processes. I'm always eager to learn and stay updated in the ever-evolving field of software.
 </p>
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/jalitha kheminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jalitha kheminda" height="30" width="40" /></a>
+<a href="https://fb.com/jalitha kheminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jalitha kheminda" height="30" width="40" /></a>
+<a href="https://instagram.com/jalitha kheminda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jalitha kheminda" height="30" width="40" /></a>
+</p>
+
+
+
 
 <h2 align="center">Programming Languages:</h2>
 
@@ -50,6 +60,9 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" style="margin: 10px;"/>
   </a>
 </p>
+
+
+
 
 
 <h2 align="center">Web Development:</h2>
