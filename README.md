@@ -7,3 +7,6 @@
   <span style="font-weight: bold; color: #f39c12;">Cloud Computing</span>
 </h3>
 
+<p align="center">
+  <img src="images/1.png" alt="Your Image Description">
+</p>
