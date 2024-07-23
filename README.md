@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="300px" height="200px" src="images/1.png" alt="Your Image Description">
+  <img width="300px" height="200px" src="images/1.gif" alt="Your Image Description">
 </p>
 
 <h1 align="center">Hi 👋, I'm Jalitha Kheminda</h1>
